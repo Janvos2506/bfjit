@@ -1,5 +1,2 @@
-main.c
-.vscode/c_cpp_properties.json
-.vscode/settings.json
-.vscode/tasks.json
-main.exe
+.vscode/*
+*.exe
